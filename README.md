@@ -1,6 +1,7 @@
 # Sortitoutsi_Keyword_Research
 Analyzing SEMRush search keyword data captured for Sortitoutsi.net on October 2023 using Excel, R, SQL and Tableau.
 
+![Sortitoutsi.net Organic Positions Tableau Dashboard](./images/Sortitoutsi_Organic_Positions.png)
 # Overview
 This repository contains the data analysis project "Keyword Research for Sortitoutsi.net," based on [SEMRush](https://www.semrush.com) data captured in October 2023. The project focuses on understanding the keyword landscape for Sortitoutsi.net, a community website servicing the Football Manager gaming community, through the lens of SEO, SERP features, and search intent. The analysis is aimed at driving actionable insights to optimize organic traffic and improve the site's visibility in search engines.
 
