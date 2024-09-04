@@ -63,4 +63,5 @@ Summary.
 2. Review the `README.md` for an overview of the project.
 3. Explore the `notebooks/` directory to see the detailed analysis and code.
 4. Review the `reports/` for a summary of insights and recommendations.
+5. Peruse the accompanying [Tableau Dashboard](https://public.tableau.com/app/profile/terry.bates4031/viz/Sortitoutsi_netOrganicPositions/SortitoutsiOrganicPositions) to surface keyword research data.
 
