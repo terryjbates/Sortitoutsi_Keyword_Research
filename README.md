@@ -51,11 +51,12 @@ A concentrated set of 42 unique URLs drive the majority of the site's traffic. O
 ## Repository Structure
 * `data/`: Contains the original CSV files and associated database files used in the analysis.
 * `notebooks/`: Jupyter or Quarto notebooks documenting the analysis process.
-* `reports/`: Generated reports, including the Final Report and Summary.
+* `reports/`: Generated reports, including the Final Report and 
+Summary.
+* `notebooks/Sortitoutsi_Keyword_Research.qmd`: The main analysis document written in Quarto, detailing the entire keyword research process.
+* `reports/Project_Overview_and_Insights.md`: Front-end document with generalized project information.
 * `README.md`: This document.
-* `Sortitoutsi_Keyword_Research.qmd`: The main analysis document written in Quarto, detailing the entire keyword research process.
 
-# Visuals
 
 # How to Use This Repository
 1. Clone the repository to your local machine.
