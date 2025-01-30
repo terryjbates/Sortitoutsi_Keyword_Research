@@ -7,7 +7,7 @@ The goal of this project is to enhance the site’s visibility, optimize search 
 
 -   **Increase Organic Traffic**: Identify high-performing keywords and optimize the site’s content strategy to improve search engine visibility and attract more visitors.
 
--   **Understand Search Inten**t: Analyze the search intent behind high-ranking keywords to ensure content aligns with what users are looking for.
+-   **Understand Search Intent**: Analyze the search intent behind high-ranking keywords to ensure content aligns with what users are looking for.
 
 -   **Maximize Search Efficiency**: Evaluate how well Sortitoutsi.net converts search engine queries into actual site traffic and identify opportunities to improve this efficiency.
 
