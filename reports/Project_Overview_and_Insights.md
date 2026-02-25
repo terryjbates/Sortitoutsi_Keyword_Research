@@ -14,7 +14,7 @@ The goal of this project is to enhance the site’s visibility, optimize search 
 -   **Competitive Analysis**: Compare Sortitoutsi.net’s keyword performance with its competitors to uncover opportunities and threats.
 
 -   **Strategic Recommendations**: Provide actionable recommendations based on data analysis to help Sortitoutsi.net refine its content strategy and keyword targeting.
-    Data Sources and Methodology The analysis was conducted using a combination of tools and techniques:
+    The analysis was conducted using a combination of tools and techniques:
 
 # Data Sources and Methodology
 
